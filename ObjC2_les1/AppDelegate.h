@@ -7,6 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <ALAirplayView.h>
+#import <AFNetworking.h>
+#import "ARSplitStackView.h"
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

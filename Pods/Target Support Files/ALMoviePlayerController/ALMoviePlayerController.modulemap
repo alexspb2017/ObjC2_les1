@@ -1,0 +1,6 @@
+framework module ALMoviePlayerController {
+  umbrella header "ALMoviePlayerController-umbrella.h"
+
+  export *
+  module * { export * }
+}
